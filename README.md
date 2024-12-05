@@ -1,7 +1,6 @@
 # 💫 About Me:
 Software engineer specializing in the development of web and desktop applications using Angular, Python, TypeScript, JavaScript, HTML, CSS, and SQL.<br><br>I have successfully designed and implemented new features for enterprise-level web and mobile platforms, integrating various APIs for data consumption and transformation.<br><br>With Python, I have developed applications for process automation, participating in all stages of the software lifecycle, from initial conception to final implementation.<br><br>Additionally, I possess advanced English skills (B2 - upper intermediate), basic Portuguese knowledge (A2), and strong competencies in data analysis using SQL, Power BI, Python, and Excel.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andresfmc) 
 
@@ -11,8 +10,5 @@ Software engineer specializing in the development of web and desktop application
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
-[![](https://visitcount.itsvg.in/api?id=MercadeoDev&icon=0&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
